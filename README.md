@@ -3,7 +3,7 @@
 
 🎓 Currently studying Systems Analysis and Development in **FATEC - SCS**
 
-💼 My LinkedIn: [www.linkedin.com/in/guilherme-zanetti-2b24002b5](www.linkedin.com/in/guilherme-zanetti-2b24002b5)
+💼 LinkedIn: [www.linkedin.com/in/guilherme-zanetti-2b24002b5](www.linkedin.com/in/guilherme-zanetti-2b24002b5)
 
 📫 Feel free to contact me on: **guixzanetti@gmail.com**
 
