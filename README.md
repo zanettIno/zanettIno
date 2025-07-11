@@ -1,4 +1,4 @@
-```bash
+```python
 class Musician:
 
     def __init__(self, name: str, age: int, college: str, languages: list[str],
