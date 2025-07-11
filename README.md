@@ -22,3 +22,5 @@ def main():
         },
         instruments = ["Drums", "General Percussion", "Violin"]
     )
+
+main()
