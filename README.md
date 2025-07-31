@@ -24,3 +24,9 @@ def main():
     )
 
 main()
+```
+<br>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zanettIno&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanettIno&layout=compact&theme=radical"/>
+</div>
