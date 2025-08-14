@@ -18,8 +18,7 @@ def main():
         languages   = ["Português", "English"],
         programming = {
             "technologies": ["Python", "JavaScript", "Typescript", "Kotlin", "C"],
-            "frameworks":   ["Flask", "Node.js", "React", "Express", "Ktor"]
-        },
+            "frameworks":   ["Flask", "Node.js", "React", "Express", "Ktor"]},
         instruments = ["Drums", "General Percussion", "Violin"]
     )
 
