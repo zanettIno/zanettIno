@@ -13,7 +13,7 @@ class Musician:
 def main():
     littleMe = Musician(
         name        = 'Guilherme Xavier Zanetti "zanettIno"',
-        age         = 18,
+        age         = 19,
         college     = "Fatec SCS",
         languages   = ["Português", "English"],
         programming = { "technologies": ["Python", "JavaScript", "Typescript", "Kotlin", "C"],
